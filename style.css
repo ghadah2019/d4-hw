@@ -1,0 +1,394 @@
+nav {
+  
+    width: 1488px;
+    height: 134px;
+    flex-shrink: 0;
+     height: 50px;
+     background: #C1D0B5;
+
+}
+
+
+div.back {
+    position: relative;
+    background: #E8ECE3;
+   
+    width: 1512px;
+    height: 2800px;
+   
+  }
+
+
+  li {
+    position: relative;
+    top: 10px;
+    display:inline;
+     padding:10px 120px;
+    height: 50px;
+    /* background: #B4CCA1; */
+    list-style: none;
+    color: rgb(10, 10, 8);
+    font-size: larger;
+    
+}
+
+.image3 {
+    position: absolute;
+    /* top: 50px;
+    left: 100px; */
+    width: 1420px;
+    height: 502px;
+    flex-shrink: 0;
+   
+   
+   
+  }
+  .text {
+    position: absolute;
+    color: #1D4D28;
+    text-align: center;
+font-size: 30px;
+font-family: Jim Nightshade;
+/* top: 250px; */
+left: 330px;
+font-weight: 100;
+white-space: nowrap;
+  }
+
+  .text2 {
+    position: absolute;
+    color: black;
+    top: 530px;
+    left: 600px;
+font-size: 30px;
+text-align: center;
+font-family: Josefin Slab;
+font-weight: 400;
+  }
+
+  .text3 {
+    position: absolute;
+    color: black;
+    top: 570px;
+    left: 600px;
+    font-style: italic;
+font-size: 30px;
+text-align: center;
+font-family: Josefin Slab;
+font-weight: 400;
+  }
+
+  .image1 {
+    width: 279px; height: 383px; left: 52px; top: 680px; position: absolute; 
+    border-radius: 100px;
+  }
+  .image2 {
+    width: 279px; height: 383px; left: 400px; top: 680px; position: absolute; 
+    border-radius: 100px;
+  }
+
+  .image4 {
+    width: 279px; height: 383px; left: 750px; top: 680px; position: absolute; 
+    border-radius: 100px;
+  }
+  .image5 {
+    width: 279px; height: 383px; left: 1100px; top: 680px; position: absolute; 
+    border-radius: 100px;
+  }
+
+  .text4 {
+    width: 175px; height: 58px; left: 104px; top: 1070px; position: absolute; color: black; font-size: 30px; font-family: Josefin Slab; font-weight: 700; word-wrap: break-word;
+  }
+  .text5 {
+    width: 175px; height: 58px; left: 450px; top: 1070px; position: absolute; color: black; font-size: 30px; font-family: Josefin Slab; font-weight: 700; word-wrap: break-word;
+  }
+
+  .text6 {
+    width: 175px; height: 58px; left: 820px; top: 1070px; position: absolute; color: black; font-size: 30px; font-family: Josefin Slab; font-weight: 700; word-wrap: break-word;
+  }
+  .text7 {
+    width: 175px; height: 58px; left: 1200px; top: 1070px; position: absolute; color: black; font-size: 30px; font-family: Josefin Slab; font-weight: 700; word-wrap: break-word;
+  }
+  .hr1 {
+   
+    top: 1170px; 
+    height: 2px; 
+    width: 90%;
+    position: absolute;  
+    background-color: black;
+  }
+  .text8 {
+    position: absolute;
+    color: black;
+    top: 1170px;
+    left: 600px;
+    font-style: italic;
+font-size: 30px;
+text-align: center;
+font-family: Josefin Slab;
+font-weight: 400;
+  }
+
+  .back1 {
+    width: 300px; height: 360px; left: 45px; top: 1500px; position: absolute; background: #C0CEBD; border-radius: 79px
+  }
+  .circle {
+    width: 170px; height: 170px; left: 100px; top: 1380px; position: absolute; background: #A6B5A3; border-radius: 9999px
+  }
+
+  .img1 {
+    width: 120px; height: 190px; left: 120px; top: 1280px; position: absolute; background: #A6B5A3; border-radius: 9999px
+  }
+  .small-img {
+    width: 70px; height: 70px; left: 220px; top: 1490px; position: absolute; background: #6b7b67; border-radius: 9999px
+    
+  }
+
+  .txt{
+    width: 70px; height: 70px; left: 220px; top: 1470px; position: absolute;  color: black; font-size: 30px;
+  }
+  .t{
+    width: 300px; height: 450px; left: 45px; top: 1600px; position: absolute; color: black; font-size: 25px; text-align: justify;
+  }
+
+
+  .back2 {
+    width: 300px; height: 360px; left: 550px; top: 1500px; position: absolute; background: #C0CEBD; border-radius: 79px
+  }
+  .circle2 {
+    width: 170px; height: 170px; left: 610px; top: 1380px; position: absolute; background: #A6B5A3; border-radius: 9999px
+  }
+
+  .img2 {
+    width: 120px; height: 190px; left: 630px; top: 1280px; position: absolute; background: #A6B5A3; border-radius: 9999px
+  }
+  .small-img2 {
+    width: 70px; height: 70px; left: 730px; top: 1490px; position: absolute; background: #6b7b67; border-radius: 9999px
+    
+  }
+
+  .txt2{
+    width: 70px; height: 70px; left: 730px; top: 1470px; position: absolute;  color: black; font-size: 30px;
+  }
+  .t2{
+    width: 300px; height: 450px; left: 550px; top: 1600px; position: absolute; color: black; font-size: 25px; text-align: justify;
+  }
+
+
+  .back3 {
+    width: 300px; height: 360px; left: 1000px; top: 1500px; position: absolute; background: #C0CEBD; border-radius: 79px
+  }
+  .circle3 {
+    width: 170px; height: 170px; left: 1060px; top: 1380px; position: absolute; background: #A6B5A3; border-radius: 9999px
+  }
+
+  .img3 {
+    width: 120px; height: 190px; left: 1090px; top: 1280px; position: absolute; background: #A6B5A3; border-radius: 9999px
+  }
+  .small-img3 {
+    width: 70px; height: 70px; left: 1190px; top: 1490px; position: absolute; background: #6b7b67; border-radius: 9999px
+    
+  }
+
+  .txt3{
+    width: 70px; height: 70px; left: 1190px; top: 1470px; position: absolute;  color: black; font-size: 30px;
+  }
+  .t3{
+    width: 300px; height: 450px; left: 1000px; top: 1600px; position: absolute; color: black; font-size: 25px; text-align: justify;
+  }
+  .bb {
+    width: 375px; height: 327px; left: -118px; top: 201px; position: absolute; opacity: 0.50; background: #90a57f; box-shadow: 100px 100px 100px; border-radius: 9999px; filter: blur(100px)
+  }
+  
+  .img-1 {
+    width: 1000px; height: 1500px; left: 707.68px; top: 3268.03px; position: absolute; transform: rotate(-132.82deg); transform-origin: 0 0
+  }
+  .m1 {
+    width: 210px; height: 400px; left: 1060px; top: 110px; position: absolute;  border-radius: 30%;  border: 1px solid #555; padding: 15px;
+  }
+
+
+  .small-img4 {
+    width: 70px; height: 70px; left: 1060px; top: 100px; position: absolute; background: #e3e9e2; border-radius: 9999px
+    
+  }
+
+
+  .txt5{
+    left: 30px; top: 160px; position: absolute;  color: rgb(121, 151, 107); font-size: 30px; right: 800px; text-align: justify;
+  }
+
+  .small-img5 {
+    width: 70px; height: 70px; left: 130px; top: 400px; position: absolute; background: #181a18; border-radius: 9999px
+    
+  }
+
+  .square {
+    position: absolute;
+    background-color: #D5E1CC;
+   top: 650px;
+    height: 400px;
+       width: 720px;
+       left: 700px;
+       block-size: 400px;
+  }
+  .m2 {
+    width: 210px; height: 400px; left: 560px; top: 710px; position: absolute;  border-radius: 30%;  border: 1px solid #555; padding: 15px;
+  }
+  .txt6{
+    left: 830px; top: 700px; position: absolute;  color: rgb(121, 151, 107); font-size: 30px; right: 100px; text-align: justify;
+  }
+
+
+  .small-img8{
+    width: 70px; height: 70px; left: 1190px; top: 900px; position: absolute; background: #6b7b67; border-radius: 9999px
+    
+  }
+
+  .txt8{
+    width: 70px; height: 70px; left: 1190px; top: 900px; position: absolute;  color: black; font-size: 30px;
+  }
+
+  .small-img9{
+    width: 70px; height: 70px; left: 1040px; top: 900px; position: absolute; background: #6b7b67; border-radius: 9999px
+    
+  }
+
+  .txt9{
+    width: 70px; height: 70px; left: 1040px; top: 900px; position: absolute;  color: black; font-size: 30px;
+  }
+
+  .small-img11{
+    width: 70px; height: 70px; left: 900px; top: 900px; position: absolute; background: #6b7b67; border-radius: 9999px
+    
+  }
+
+  .txt11{
+    width: 70px; height: 70px; left: 900px; top: 900px; position: absolute;  color: black; font-size: 30px;
+  }
+
+  .text11 {
+    position: absolute;
+    color: black;
+    top: 1170px;
+    left: 600px;
+    font-style: italic;
+font-size: 30px;
+text-align: center;
+font-family: Josefin Slab;
+font-weight: 400;
+  }
+
+  .m5 {
+    width: 210px; height: 400px; left: 900px; top: 1300px; position: absolute;  border-radius: 30%;  border: 1px solid #555; padding: 15px;
+  }
+
+  .m6 {
+    width: 210px; height: 400px; left: 500px; top: 1300px; position: absolute;  border-radius: 30%;  border: 1px solid #555; padding: 15px;
+  }
+
+  .m7 {
+    width: 210px; height: 400px; left: 170px; top: 1300px; position: absolute;  border-radius: 30%;  border: 1px solid #555; padding: 15px;
+  }
+
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #64837F;
+    color: rgb(255, 255, 255);
+    text-align: center;
+ }
+
+
+ a {
+    text-decoration: none; 
+  }
+
+  .mm{
+    width: 310px; height: 400px; left: 1060px; top: 110px; position: absolute;  border-radius: 30%;  border: 1px solid #555; padding: 15px;
+  }
+
+  .mmm{
+    width: 310px; height: 400px; left: 130px; top: 110px; position: absolute;  border-radius: 30%;  border: 1px solid #555; padding: 15px;
+  }
+
+
+  .square1 {
+    position: absolute;
+    background-color: #D5E1CC;
+   top: 200px;
+    height: 200px;
+       width: 360px;
+       left: 550px;
+     
+    border-radius: 45px;
+  }
+  
+  .txt22{
+    left: 50px; top: 200px; position: absolute;  color: rgb(121, 151, 107); font-size: 30px; right: 100px; text-align: center;
+  }
+
+  .bg {
+    position: absolute;
+    background-color: #64837F;
+   top: 600px;
+ height: 150px;
+    width: 1420px;
+
+  }
+
+  .txt23{
+    left: 300px; top: 600px; position: absolute;  color: white; font-size: 30px; right: 100px; text-align: left;
+  }
+  .txt24{
+    left: 800px; top: 600px; position: absolute;  color: white; font-size: 20px; right: 200px; text-align: justify; 
+  }
+  .text55{
+    position: absolute;
+    color: black;
+   top: 750px;
+   left: 40%;
+    font-style: italic;
+font-size: 30px;
+text-align: center;
+font-family: Josefin Slab;
+
+  }
+
+  .image33 {
+    position: absolute;
+    top: 790px;
+    left: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: 45px;
+   
+   
+   
+  }
+
+  .image44 {
+    position: absolute;
+    top:900px;
+    left: 200px;
+    width: 200px;
+    height: 200px;
+    border-radius: 45px;
+   
+   
+   
+  }
+  .txt25{
+    left: 400px; top: 800px; position: absolute;  color: black; font-size: 20px; right: 800px; text-align: justify; 
+  }
+  
+
+  .mmr{
+    width: 310px; height: 400px; left: 1060px; top: 1010px; position: absolute;  border-radius: 30%;  border: 1px solid #555; padding: 15px;
+  }
+  .txt26{
+    left: 700px; top: 1000px; position: absolute;  color: black; font-size: 20px; right: 450px; text-align: justify; 
+  }
